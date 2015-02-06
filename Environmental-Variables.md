@@ -1,3 +1,7 @@
+If you just want to know how things work basically, start here:
+
+[Good General Guide to how to set Environmental Variables and how they are are loaded in Unix systems ](http://dghubble.com/blog/posts/.bashprofile-.profile-and-.bashrc-conventions/)
+
 When working with a command line interface, you can use a text file with environmental variables to store logins and passwords, and to edit how you can refer to applications like ```git```.
 
 ##Why Use Them for Logins/Password
