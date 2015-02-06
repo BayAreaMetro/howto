@@ -36,7 +36,7 @@ This varies, but here are some examples in [shell](http://www.kingcomputerservic
 
 [PowerShell](https://technet.microsoft.com/en-us/library/ff730964.aspx)
 
-[Git Bash](http://markashleybell.com/portable-git-windows-setting-home-environment-variable.html)
+[Git Bash](http://superuser.com/questions/602872/how-do-i-modify-my-git-bash-profile-in-windows)
 
 ##Applications (Aliases/PATH/etc)
 TO FILL IN LATER--Stuff about PATH
